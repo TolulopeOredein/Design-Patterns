@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c941e6c-3b81-4ad3-b123-783936fb0f11" name="Changes" comment="Design Patterns">
-      <change afterPath="$PROJECT_DIR$/src/Structural/Adpater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/adapater/DriverClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/adapater/Pins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/adapater/PinsGetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/adapater/Socket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/adapater/SocketAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/adapater/SocketAdapterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural/adapater/USPlug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8c941e6c-3b81-4ad3-b123-783936fb0f11" name="Changes" comment="This code demonstrates the Adapter pattern. A real life example is when you need to use a 3 Pin plug on a 2 Pin socket outlet. You will definitely need an adapter.&#10;Here we have a 2 pin socket outlet and I have created a multi-pin Adapter that can be used for 2, 3 and 4 plugs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660563503431</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This code demonstrates the Adapter pattern. A real life example is when you need to use a 3 Pin plug on a 2 Pin socket outlet. You will definitely need an adapter.&#10;Here we have a 2 pin socket outlet and I have created a multi-pin Adapter that can be used for 2, 3 and 4 plugs">
+      <created>1660768619686</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660768619686</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This code demonstrates the Adapter pattern. A real life example is when you need to use a 3 Pin plug on a 2 Pin socket outlet. You will definitely need an adapter.&#10;Here we have a 2 pin socket outlet and I have created a multi-pin Adapter that can be used for 2, 3 and 4 plugs">
+      <created>1660768630376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660768630376</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Design Patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design Patterns" />
+    <MESSAGE value="This code demonstrates the Adapter pattern. A real life example is when you need to use a 3 Pin plug on a 2 Pin socket outlet. You will definitely need an adapter.&#10;Here we have a 2 pin socket outlet and I have created a multi-pin Adapter that can be used for 2, 3 and 4 plugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="This code demonstrates the Adapter pattern. A real life example is when you need to use a 3 Pin plug on a 2 Pin socket outlet. You will definitely need an adapter.&#10;Here we have a 2 pin socket outlet and I have created a multi-pin Adapter that can be used for 2, 3 and 4 plugs" />
   </component>
 </project>
